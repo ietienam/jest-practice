@@ -1,0 +1,26 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "testing how to use jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ietienam/jest-practice.git"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "Ini Etienam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ietienam/jest-practice/issues"
+  },
+  "homepage": "https://github.com/ietienam/jest-practice#readme",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
